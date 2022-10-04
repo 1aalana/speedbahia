@@ -1,0 +1,135 @@
++55 75 9266-3030
+speedbanet@gmail.com
+
+
+
+1- Banner1: Fibra optica / Planos a partir de R$ 60,00 /mês
+
+2- Ultravelocidade na sua casa, diversão garantida aproveite.
+
+Assista a filmes, séries e vídeos em alta resolução sem se preocupar com interrupções. 
+Conecte-se com seus amigos e interaja nas suas redes sociais favoritas. Ouça músicas em
+alta qualidade nos serviços de streaming sem travamentos. Quem é fã de jogos online 
+não precisa se preocupar com quedas ou atrasos.
+
+3-planos
+
+4-Solução ideal para a sua empresa, e tranquilidade os seus negócios.
+Com uma vasta experiência, atuando no mercado nacional, a CORE3 
+Tecnologia tornou-se referência no fornecimento de soluções de TI. 
+O principal pilar é a capacidade de integrar soluções baseadas em diversas tecnologias, 
+fornecidas pelos maiores fabricantes do mundo, com o objetivo de convergir para o crescimento do parceiro,
+dando produtividade e fornecendo mobilidade aos seus clientes.
+
+
+5- Banner2: Malhor suporte da região / Internet com fibra óptica / 150 Megas R$ 80,00 /mês
+
+6- nossos Serviços
+Internet Residencial - para levar alegria pra sua casa
+Internet Empresaria  - manter sua empresa sempre muito bem concetada e assitida
+Link dedicado        - 
+
+7- Banner3: Sua familia e sua empresa mais conctada
+8-Diferencial
+Porque Nos escolher
+Performace
+Assista vídeos online em alta resolução e baixe arquivos muito mais rápido.
+
+Estabilidade
+Melhore seu desempenho em jogos online com rápida taxa de resposta, sem travar e com o melhor Ping!
+
+
+Disponibilidade
+Conecte vários dispositivos ao mesmo tempo e navegue sem preocupações.
+
+Instalação Acessível
+Instalamos internet na sua residencia ou empresa com custo acessível.
+Ferramentas de última geração
+Colaboradores treinados
+Alta velocidade de navegação
+
+FTTH
+Tecnologia de última geração para entregar a melhor internet possível.
+
+Suporte Humanizado
+Nossos atendentes estão prontos para resolver o seu problema.
+
+Central do Assinante
+Portal do assinante para que possa visualizar seu consumo, emitir 2ª via de boleto e mais.
+
+Internet 24h
+Esteja sempre conectado, 24 horas por dia, 7 dias por semana. 
+
+
+
+9-Testar Velocidade
+
+10-Banner04
+11-Sobre nos
+12-Curiosidades 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="header">
+    <div class="container-header-principal">
+        <h1>titulo</h1>
+        <div class="container-header">
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+ <nav>
+        <img class="logo" src="../img/img-07.png" alt="logo">
+        <div class="mobile-menu">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+        <ul class="nav-list">
+            <li>
+                        <a href="../html/home.html#planos">Planos</a>
+                    </li>
+                    <li>
+                        <a href="../html/home.html#nossos-servicos">Serviços</a>
+                    </li>
+                    <li>
+                        <a href="../html/home.html#diferencial">Diferenciais</a>
+                    </li>
+                    <li>
+                        <a href="../html/home.html#sobre-nos">Sobre Nós</a>
+                    </li>
+                    <li>
+                        <a href="../html/home.html#testar-velocidade">Testar Velocidade</a>
+                    </li>
+                    <li>
+                        <a href="http://187.44.192.155/central/login.php?acao=senha" target="_blank">2ª Via</a>
+                    </li>
+                    <li>
+                        <a href="../html/home.html#contatos">Contato</a>
+                    </li>
+        </ul>
+        <div class="btn">
+            <a href="https://api.whatsapp.com/send?phone=557592663030&text="target="_blank">Assine Já</a>
+        </div>
+</nav>
+
+
+
+
+
