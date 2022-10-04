@@ -44,6 +44,7 @@ body {
     -webkit-tap-highlight-color: transparent;
     background-color: #fdfdfd;
     color: #304047;
+    overflow-x: hidden !important;
 }
 
 .h1-titulo{
